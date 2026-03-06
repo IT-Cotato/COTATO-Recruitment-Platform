@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/IT-Cotato/COTATO-FE-v2.git
+	branch = develop
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IT-Cotato/COTATO-Recruit-BE.git
+	branch = develop
