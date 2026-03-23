@@ -186,11 +186,10 @@ IT 연합 동아리 코테이토의 전용 리크루트 플랫폼입니다.
 
 # ⚙️ Key Features
 > 주요 화면을 통해 코테이토 리크루트 플랫폼의 핵심 기능과 사용자 경험을 소개합니다.
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/3c5220aa-9116-4a24-a359-4fd895cbe4ee" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/90c998c5-d3a0-4c26-a963-7a49690e2177" />
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/fd3fbe4b-c353-40a7-b3df-bd5ac897ffcf  " />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/f99d7343-ffab-4a96-bc8a-66f55a2fa2eb" />
-
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/89ebe282-3358-4265-8083-1b6c97b2b1d6" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f6f0240b-c124-491d-99b3-37c52751f2a3" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/85a2332f-13c5-43e3-85f0-58554400cac2  " />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/d7a07001-13c2-476e-9ff2-8f841ab6ce23" />
 
 
 
